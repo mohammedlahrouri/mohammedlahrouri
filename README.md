@@ -8,11 +8,27 @@
 
   <br><br>
 
+  <!-- DYNAMIC TYPING SUBHEADER -->
+  <a href="https://github.com/mohammedlahrouri">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=%3E+Architecting+Scalable+Java+%2F+Spring+Boot+Services...;%3E+Engineering+Offline-First+Android+Apps+(Compose)...;%3E+Managing+CCNA+Networks+%26+Linux+Infrastructure...;%3E+Bridging+High-Level+Code+with+Low-Level+Rigor..." alt="Typing SVG" />
+  </a>
+
+  <br>
+
   [![Status: Open to Work](https://img.shields.io/badge/Status-Open%20for%20Opportunities-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
   [![Email](https://img.shields.io/badge/Email-Mohammedlahrouri1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedlahrouri1998@gmail.com)
   [![Google Play](https://img.shields.io/badge/Google%20Play-Taxi%20Gesti%C3%B3n-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
+  [![Profile Views](https://komarev.com/ghpvc/?username=mohammedlahrouri&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge)](https://github.com/mohammedlahrouri)
 
+</div>
+
+---
+
+## 🏆 Engineering Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedlahrouri&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" alt="GitHub Trophies" width="100%" />
 </div>
 
 ---
@@ -179,6 +195,20 @@ A dual mastery of software engineering and network/systems fundamentals enables:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedlahrouri&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedlahrouri&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🐍 Interactive Contribution Stream
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammedlahrouri/mohammedlahrouri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
