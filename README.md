@@ -1,56 +1,34 @@
 <!-- ================================================================= -->
-<!-- HEADER / TERMINAL BANNER                                          -->
+<!-- HEADER / ANIMATED TERMINAL BANNER                                 -->
 <!-- ================================================================= -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/">
+    <img src="./assets/header-terminal.svg" alt="Mohammed Lahrouri Terminal Header" width="100%" />
+  </a>
 
-```text
- _________________________________________________________________________
-/  __  __       _                                    _     _             \
-| |  \/  | ___ | |__   __ _ _ __ ___  _ __ ___   ___| |   | |            |
-| | |\/| |/ _ \| '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \ |   | |            |
-| | |  | | (_) | | | | (_| | | | | | | | | | | |  __/ |___| |___         |
-| |_|  |_|\___/|_| |_|\__,_|_| |_| |_|_| |_| |_|\___|_____|_____|        |
-|                                                                        |
-|  >> Multiplatform Software Engineer & Systems Architect <<             |
-\________________________________________________________________________/
-```
+  <br><br>
 
-[![Status: Open to Work](https://img.shields.io/badge/Status-Open%20for%20Opportunities-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
-[![Email](https://img.shields.io/badge/Email-Mohammedlahrouri1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedlahrouri1998@gmail.com)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Published%20App-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
+  [![Status: Open to Work](https://img.shields.io/badge/Status-Open%20for%20Opportunities-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/)
+  [![Email](https://img.shields.io/badge/Email-Mohammedlahrouri1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedlahrouri1998@gmail.com)
+  [![Google Play](https://img.shields.io/badge/Google%20Play-Taxi%20Gesti%C3%B3n-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
 
 </div>
 
 ---
 
-```bash
-mohammed@systems-core:~$ neofetch --profile
-```
-```yaml
-Host: Mohammed Lahrouri Laasiri
-Role: Software Engineer | Multiplatform & Backend Architect
-Core Focus: JVM Ecosystem (Java / Spring Boot) | Native Android (Kotlin / Jetpack Compose) | Linux & Systems
-Network Engineering: CCNA-Level Knowledge (Protocols, Routing & Switching, Topologies, Security)
-OS Environment: 100% Linux Native
-Philosophy: "Building high-performance software with a deep understanding of underlying networks and systems."
-Status: Available for Software Engineering & Systems Architecture roles.
-```
-
----
-
-## 📌 Executive Summary / Resumen Profesional
+## 📌 Executive Summary / Resumen Ejecutivo
 
 <details open>
 <summary><b>🇬🇧 English Version</b></summary>
 <br>
 
-I am a **Software Engineer** specializing in multiplatform application design, scalable backend architectures, and advanced systems/network administration. My engineering foundation bridges modern high-level software development with deep low-level infrastructure understanding:
+I am a **Software Engineer** specialized in multiplatform applications, robust backend architectures, and advanced systems/network administration. My engineering approach bridges high-level modern software development with deep low-level infrastructure understanding:
 
-- **Backend & JVM Ecosystem:** Proficient in Java and Spring Boot, implementing clean, maintainable architectures for mission-critical APIs, microservices, and complex business logic.
-- **Mobile & Multiplatform:** Developing production-grade Android apps with Kotlin and Jetpack Compose, mastering offline-first architectures, state management, and Google Play deployments.
-- **Web & Frontends:** Building structured enterprise web applications and control panels with Angular.
-- **Networks & Infrastructure:** Backed by CCNA-level networking expertise, managing communication protocols, network topologies, infrastructure security, and operating natively in Linux environments.
+- **JVM Ecosystem & Backend:** Deep expertise in **Java** and **Spring Boot**, implementing Clean Architecture, SOLID principles, and high-performance RESTful APIs.
+- **Mobile & Multiplatform:** Production experience developing native Android applications with **Kotlin** and **Jetpack Compose**, implementing reactive state management and offline-first persistence engines.
+- **Web & Frontends:** Building structured enterprise web applications and control dashboards with **Angular** and TypeScript.
+- **Networks & Infrastructure:** Backed by **CCNA-level networking fundamentals** (TCP/IP, routing, switching, topologies and security) with a native **100% Linux** workflow.
 
 </details>
 
@@ -60,112 +38,110 @@ I am a **Software Engineer** specializing in multiplatform application design, s
 
 Soy **Ingeniero de Software** especializado en el diseño de aplicaciones multiplataforma, arquitecturas backend y administración avanzada de redes y sistemas. Mi perfil une el desarrollo de software moderno con un entendimiento riguroso de la infraestructura subyacente:
 
-- **Ecosistema JVM y Backend:** Dominio profundo de Java y Spring Boot para la construcción de APIs escalables, servicios robustos y arquitecturas limpias (Clean Architecture).
-- **Desarrollo Móvil y Multiplataforma:** Creación de aplicaciones nativas en Android con Kotlin y Jetpack Compose, implementando arquitecturas offline-first, gestión de estado y publicación en Google Play.
-- **Web y Frontend:** Desarrollo de soluciones estructuradas y paneles de control con Angular.
-- **Redes y Sistemas:** Formación especializada en redes (nivel CCNA), con comprensión integral de protocolos de comunicación, topologías, seguridad y entorno de trabajo 100% Linux.
+- **Ecosistema JVM y Backend:** Dominio profundo de **Java** y **Spring Boot** para la construcción de APIs escalables, servicios robustos y arquitecturas limpias (Clean Architecture).
+- **Desarrollo Móvil y Multiplataforma:** Creación de aplicaciones nativas en Android con **Kotlin** y **Jetpack Compose**, implementando arquitecturas offline-first, gestión de estado reactiva y publicación en Google Play.
+- **Web y Frontend:** Desarrollo de soluciones estructuradas y paneles de control con **Angular** y TypeScript.
+- **Redes y Sistemas:** Formación especializada en redes (nivel **CCNA**), con comprensión integral de protocolos de comunicación, topologías, seguridad y entorno de trabajo **100% Linux**.
 
 </details>
 
 ---
 
-## 🛠️ Technical Stack & Architecture Matrix
+## ⚡ Engineering Competency & Depth Matrix
+
+<div align="center">
+  <img src="./assets/capabilities-matrix.svg" alt="Engineering Depth & Competency Matrix" width="100%" />
+</div>
+
+---
+
+## 🛠️ Technical Stack & Tooling
 
 ```bash
-mohammed@systems-core:~$ tree /tech-stack/capabilities
+mohammed@systems-core:~$ tree -L 2 /tech-stack/capabilities
 ```
 
 ### ☕ Backend & JVM Ecosystem
 ```text
-├── Java (Core & Enterprise)
-├── Spring Boot (REST APIs, Security, Data, Microservices)
-├── Clean Architecture & SOLID Principles
-└── Design Patterns & Modular Service Design
+├── Java (Core, Concurrency, Enterprise 17/21+)
+├── Spring Boot 3.x (Spring Security, Spring Data, REST APIs)
+├── Architectural Patterns (Clean Architecture, Hexagonal, SOLID, DDD)
+└── Testing & Performance (JUnit, Mockito, API Benchmarking)
 ```
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📱 Mobile & Multiplatform Engineering
 ```text
 ├── Kotlin & Android SDK
-├── Jetpack Compose (Declarative UI & Reactive State)
-├── Offline-First Architecture & State Management (Coroutines, Flow)
-└── Production Deployment (Google Play Console Lifecycle)
+├── Jetpack Compose (Declarative UI, Reactive State, Unidirectional Data Flow)
+├── Asynchronous Concurrency (Kotlin Coroutines, StateFlow, SharedFlow)
+└── Google Play Deployment (Production Releases, Permission Policies & Scoped Storage)
 ```
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android_SDK-34A853?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play_Console-00875A?style=flat-square&logo=googleplay&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play_Console-00875A?style=for-the-badge&logo=googleplay&logoColor=white)
 
 ### 🌐 Frontend & Client Interfaces
 ```text
-├── Angular (Single Page Apps, Modules, Components)
-├── TypeScript & Modern JavaScript
-└── Reactive Programming with RxJS
+├── Angular (Components, Services, Modules, Routing)
+├── TypeScript & Modern ES6+ JavaScript
+└── Reactive Client Architecture (RxJS Observables, State Management)
 ```
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 💾 Data Persistence & Cloud Services
 ```text
-├── Supabase (PostgreSQL, Realtime, Row Level Security)
+├── Supabase (PostgreSQL, Realtime, Row Level Security, Auth)
 ├── Firebase (Firestore, Authentication, Cloud Functions)
-└── Relational Database Modeling & SQL
+└── Relational Database Modeling, Query Optimization & SQL
 ```
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Modeling-CC292B?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Modeling-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🐧 Systems, Networks & Infrastructure
 ```text
-├── Linux Environments (Command Line, Process & File Systems)
-├── CCNA Networking (TCP/IP, Routing, Switching, Topologies, Subnetting)
-├── Infrastructure Security & Traffic Analysis
-└── Git Version Control & Automation
+├── Linux Environments (Process Lifecycle, Memory, POSIX, Shell Scripting)
+├── CCNA Networking (TCP/IP Suite, OSI Model, Subnetting, Routing Protocols)
+├── Infrastructure Security, Packet Analysis & Firewalls
+└── Git Version Control, CI/CD Workflows & Release Pipelines
 ```
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/TCP%2FIP_&_Routing-00599C?style=flat-square&logo=wireshark&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Native-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP_&_Routing-00599C?style=for-the-badge&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Project Showcase
+## 🚀 Featured Engineering Project
 
 <div align="center">
-  <h3>🚕 Taxi Gestión — Android Production App</h3>
-  <p><b>Offline-First Financial & Metrics Management Tool for the Transportation Sector</b></p>
-  
-  [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Taxi_Gestión-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
+  <a href="https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es">
+    <img src="./assets/taxi-gestion-architecture.svg" alt="Taxi Gestión Architecture Blueprint" width="100%" />
+  </a>
 </div>
 
-```text
-+-------------------------------------------------------------------------+
-| ARCHITECTURAL OVERVIEW & KEY ENGINEERING CHALLENGES                      |
-+-------------------------------------------------------------------------+
-|                                                                         |
-|  [ Jetpack Compose UI ] <---> [ ViewModel / StateFlow ]                 |
-|                                       |                                 |
-|                                [ Use Cases / Domain ]                   |
-|                                       |                                 |
-|                         [ Offline-First Repository ]                    |
-|                                       |                                 |
-|                        +--------------+---------------+                 |
-|                        |                              |                 |
-|               [ Local Encrypted DB ]        [ Sync Engine / Cloud ]     |
-|                                                                         |
-+-------------------------------------------------------------------------+
-```
+<br>
 
-### 🧩 Key Engineering Highlights:
-- **Offline-First Architecture:** Engineered for uninterrupted performance with zero network latency, keeping strict local consistency and offline transaction tracking.
-- **Reactive UI & State Management:** Implemented declarative screens using **Jetpack Compose** with unidirectional data flow (UDF) powered by Kotlin Coroutines and StateFlow.
-- **Google Play Compliance & Security:** Solved real-world mobile challenges, including Android scoped storage policies, technical permission models, and production release pipeline management on **Google Play Console**.
+<div align="center">
+  <h3>🚕 Taxi Gestión — Production Android Application</h3>
+  <p><b>Offline-First Financial Accounting & Metrics System for the Transportation Industry</b></p>
+  
+  [![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
+</div>
+
+### 🧩 Core Architecture & Engineering Highlights:
+- **Offline-First Resilience:** Zero dependency on constant connectivity; transactions and metrics are stored and computed locally with deterministic audit trails.
+- **Modern Jetpack Compose UI:** Pure declarative user experience with strict **Unidirectional Data Flow (UDF)**, ensuring predictable UI states across device configurations.
+- **Production Compliance:** Successfully navigated complex technical hurdles including Android Scoped Storage policies, granular permission models, and Google Play Console release lifecycle management.
 
 ---
 
@@ -174,21 +150,27 @@ mohammed@systems-core:~$ tree /tech-stack/capabilities
 > *"High-level code is only as reliable as the systems and network layers beneath it."*
 
 ```text
- [ Application Layer ]   --> Spring Boot APIs / Android Compose / Angular Apps
-          |
- [ Protocol Layer ]      --> TCP/IP, HTTP/S, WebSocket, DNS, Subnets & Routing (CCNA)
-          |
- [ OS & Kernel Layer ]   --> Linux System Calls, Memory Management, Process Scheduling
+  +-------------------------------------------------------------------------+
+  |  APPLICATION LAYER     Java 21 / Spring Boot 3 / Android Compose / Angular|
+  +------------------------------------+------------------------------------+
+                                       |
+  +------------------------------------+------------------------------------+
+  |  NETWORK / PROTOCOL    TCP/IP, HTTP/3, WebSockets, DNS, Routing (CCNA)  |
+  +------------------------------------+------------------------------------+
+                                       |
+  +------------------------------------+------------------------------------+
+  |  OS & KERNEL LAYER     Linux Syscalls, Threading, Memory & I/O Control  |
+  +-------------------------------------------------------------------------+
 ```
 
-Having a rigorous dual background in software engineering and networking allows me to:
-1. **Design More Resilient Backends:** Anticipating network latency, socket lifecycles, and packet failures.
-2. **Optimize Resource Consumption:** Understanding JVM memory behavior, Linux process isolation, and threading.
-3. **Ensure End-to-End Security:** Applying security principles from the transport layer up to application-level token authentication and database RLS.
+A dual mastery of software engineering and network/systems fundamentals enables:
+1. **Low-Latency Architecture:** Designing backend services with an understanding of socket lifecycles, connection pooling, and MTU packet behavior.
+2. **Resource-Efficient Services:** Diagnosing JVM garbage collection behavior, memory leaks, and CPU cache thrashing on Linux kernels.
+3. **End-to-End Security:** Hardening applications from network transport security (TLS/IPsec) to token authorization (OAuth2/JWT) and database Row-Level Security (RLS).
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Dynamic Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedlahrouri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammed's GitHub Stats" height="165" />
@@ -201,18 +183,29 @@ Having a rigorous dual background in software engineering and networking allows 
 
 ---
 
-## 📡 Terminal Connect & Contact
+## 💻 Recruiter & Developer CLI Console
 
 ```bash
-mohammed@systems-core:~$ ./connect.sh --channel="all"
+# Query profile metadata via curl terminal command
+$ curl -sL https://raw.githubusercontent.com/mohammedlahrouri/mohammedlahrouri/main/assets/profile.json | jq .
 ```
 
-```text
-[+] LinkedIn:      https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/
-[+] Email:         Mohammedlahrouri1998@gmail.com
-[+] Google Play:   https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es
-[+] Location:      Spain
-[+] Status:        Open to Software Engineering & Systems Roles
+```json
+{
+  "developer": "Mohammed Lahrouri Laasiri",
+  "status": "OPEN_FOR_OPPORTUNITIES",
+  "core_competencies": [
+    "Backend Microservices (Java / Spring Boot)",
+    "Native Multiplatform Mobile (Kotlin / Jetpack Compose)",
+    "Enterprise Web Frontends (Angular / TypeScript)",
+    "Network Engineering & Systems (CCNA / Linux)"
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/",
+    "email": "Mohammedlahrouri1998@gmail.com",
+    "google_play": "https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es"
+  }
+}
 ```
 
 <div align="center">
@@ -221,8 +214,10 @@ mohammed@systems-core:~$ ./connect.sh --channel="all"
 [![Send an Email](https://img.shields.io/badge/Send_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedlahrouri1998@gmail.com)
 [![Explore Taxi Gestión](https://img.shields.io/badge/Explore-Taxi_Gestión-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es)
 
-</div>
+<br>
 
-<div align="center">
-  <sub>Built with precision & rigor | Mohammed Lahrouri Laasiri</sub>
+```text
+[SYSTEM: OK] | Mohammed Lahrouri Laasiri — Engineered for Reliability
+```
+
 </div>

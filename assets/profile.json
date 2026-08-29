@@ -1,0 +1,27 @@
+{
+  "developer": "Mohammed Lahrouri Laasiri",
+  "title": "Multiplatform Software Engineer & Systems Architect",
+  "status": "OPEN_FOR_OPPORTUNITIES",
+  "location": "Spain",
+  "languages": ["Spanish (Native)", "English (Professional)"],
+  "core_competencies": [
+    "Backend Architecture & Microservices (Java, Spring Boot 3.x)",
+    "Native Multiplatform Mobile (Kotlin, Jetpack Compose, Offline-First)",
+    "Enterprise Web Applications (Angular, TypeScript)",
+    "Network Engineering & Infrastructure (CCNA Concepts, Protocols, Topologies)",
+    "Operating Systems (100% Linux Native Workflow)"
+  ],
+  "featured_projects": [
+    {
+      "name": "Taxi Gestión",
+      "platform": "Android (Google Play)",
+      "url": "https://play.google.com/store/apps/details?id=com.moham.taxi&hl=es",
+      "architecture": "Offline-First, Jetpack Compose, Coroutines, StateFlow, Room DB"
+    }
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/mohammed-lahrouri-8074b0316/",
+    "email": "Mohammedlahrouri1998@gmail.com",
+    "github": "https://github.com/mohammedlahrouri"
+  }
+}

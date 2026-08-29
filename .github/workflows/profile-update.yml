@@ -1,0 +1,29 @@
+name: Update GitHub Profile Activity
+
+on:
+  schedule:
+    # Runs every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify Environment & Assets
+        run: |
+          echo "Syncing profile assets and timestamp..."
+          date -u +"Last automated verification: %Y-%m-%d %H:%M:%S UTC" > .github/profile_uptime.log
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/profile_uptime.log
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(profile): automated health check & activity sync [skip ci]" && git push)

@@ -1,0 +1,132 @@
+<svg fill="none" viewBox="0 0 850 300" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .skills-card {
+          background: #0d1117;
+          border: 1px solid #30363d;
+          border-radius: 10px;
+          padding: 16px 20px;
+          font-family: 'JetBrains Mono', -apple-system, monospace;
+          color: #c9d1d9;
+          box-sizing: border-box;
+          height: 285px;
+        }
+        .matrix-title {
+          font-size: 13px;
+          font-weight: 700;
+          color: #79c0ff;
+          border-bottom: 1px solid #21262d;
+          padding-bottom: 8px;
+          margin-bottom: 12px;
+          display: flex;
+          justify-content: space-between;
+        }
+        .skills-grid {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: 12px 24px;
+        }
+        .skill-item {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+        }
+        .skill-header {
+          display: flex;
+          justify-content: space-between;
+          font-size: 11px;
+        }
+        .skill-name {
+          color: #f0f6fc;
+          font-weight: 600;
+        }
+        .skill-level {
+          color: #7ee787;
+          font-weight: bold;
+        }
+        .bar-bg {
+          background: #21262d;
+          border-radius: 4px;
+          height: 6px;
+          overflow: hidden;
+        }
+        .bar-fill {
+          height: 100%;
+          border-radius: 4px;
+        }
+        .fill-jvm { width: 95%; background: linear-gradient(90deg, #388bfd, #79c0ff); }
+        .fill-android { width: 92%; background: linear-gradient(90deg, #2ea043, #56d364); }
+        .fill-net { width: 90%; background: linear-gradient(90deg, #f0883e, #ffa657); }
+        .fill-linux { width: 94%; background: linear-gradient(90deg, #d2a8ff, #bc8cff); }
+        .fill-arch { width: 93%; background: linear-gradient(90deg, #388bfd, #58a6ff); }
+        .fill-data { width: 88%; background: linear-gradient(90deg, #39c5bb, #56d3c2); }
+        .skill-desc {
+          font-size: 10px;
+          color: #8b949e;
+        }
+      </style>
+      <div class="skills-card">
+        <div class="matrix-title">
+          <span>⚡ ENGINEERING DEPTH &amp; COMPETENCY MATRIX</span>
+          <span style="color: #8b949e; font-weight: normal; font-size: 11px;">Rigorous Technical Proficiency</span>
+        </div>
+        <div class="skills-grid">
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">☕ Java / Spring Boot Architecture</span>
+              <span class="skill-level">EXPERT / ARCHITECT</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-jvm"></div></div>
+            <div class="skill-desc">Spring Security, REST APIs, Microservices, Clean Code, Concurrency</div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">📱 Android Native &amp; Jetpack Compose</span>
+              <span class="skill-level">ADVANCED / PRODUCTION</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-android"></div></div>
+            <div class="skill-desc">Kotlin, Coroutines/StateFlow, Offline-First, Room DB, Play Console</div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">🌐 CCNA Network Engineering</span>
+              <span class="skill-level">CCNA LEVEL</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-net"></div></div>
+            <div class="skill-desc">TCP/IP, Routing &amp; Switching, Subnetting, Topologies, Packet Analysis</div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">🐧 Linux Systems &amp; Environment</span>
+              <span class="skill-level">100% NATIVE WORKFLOW</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-linux"></div></div>
+            <div class="skill-desc">Bash Scripting, POSIX, Processes, Permissions, Kernel Fundamentals</div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">🏛️ Clean Architecture &amp; System Design</span>
+              <span class="skill-level">SENIOR LEVEL</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-arch"></div></div>
+            <div class="skill-desc">SOLID, Hexagonal / Layered Patterns, Domain-Driven Design (DDD)</div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-header">
+              <span class="skill-name">💾 Data Persistence &amp; Auth</span>
+              <span class="skill-level">PRODUCTION LEVEL</span>
+            </div>
+            <div class="bar-bg"><div class="bar-fill fill-data"></div></div>
+            <div class="skill-desc">Supabase, Firebase, PostgreSQL, Relational Modeling, Row Level Security</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

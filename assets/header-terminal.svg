@@ -1,0 +1,155 @@
+<svg fill="none" viewBox="0 0 850 360" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+          border: 1px solid #30363d;
+          border-radius: 12px;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 15px rgba(88, 166, 255, 0.1);
+          font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+          color: #c9d1d9;
+          padding: 16px 20px;
+          height: 326px;
+          box-sizing: border-box;
+        }
+        .header-bar {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          border-bottom: 1px solid #21262d;
+          padding-bottom: 10px;
+          margin-bottom: 14px;
+        }
+        .dots {
+          display: flex;
+          gap: 7px;
+        }
+        .dot {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+        }
+        .dot-red { background-color: #ff5f56; box-shadow: 0 0 6px rgba(255, 95, 86, 0.4); }
+        .dot-yellow { background-color: #ffbd2e; box-shadow: 0 0 6px rgba(255, 189, 46, 0.4); }
+        .dot-green { background-color: #27c93f; box-shadow: 0 0 6px rgba(39, 201, 63, 0.4); }
+        .title {
+          font-size: 12px;
+          color: #8b949e;
+          letter-spacing: 0.5px;
+        }
+        .body {
+          font-size: 13px;
+          line-height: 1.6;
+        }
+        .prompt {
+          color: #58a6ff;
+          font-weight: bold;
+        }
+        .command {
+          color: #7ee787;
+          display: inline-block;
+          overflow: hidden;
+          white-space: nowrap;
+          border-right: 2px solid #58a6ff;
+          animation: typing 3s steps(35, end), blink 0.75s step-end infinite;
+          vertical-align: bottom;
+        }
+        .output-row {
+          display: flex;
+          margin-top: 6px;
+        }
+        .label {
+          color: #79c0ff;
+          width: 130px;
+          flex-shrink: 0;
+          font-weight: 600;
+        }
+        .val {
+          color: #e6edf3;
+        }
+        .val-highlight {
+          color: #d2a8ff;
+          font-weight: 600;
+        }
+        .val-badge {
+          background: rgba(46, 160, 67, 0.2);
+          color: #3fb950;
+          border: 1px solid rgba(46, 160, 67, 0.4);
+          padding: 1px 8px;
+          border-radius: 4px;
+          font-size: 11px;
+          font-weight: bold;
+          letter-spacing: 0.5px;
+        }
+        .pulse {
+          display: inline-block;
+          width: 7px;
+          height: 7px;
+          border-radius: 50%;
+          background-color: #3fb950;
+          margin-right: 5px;
+          animation: pulse-dot 1.5s infinite ease-in-out;
+        }
+        @keyframes typing {
+          from { width: 0; }
+          to { width: 330px; }
+        }
+        @keyframes blink {
+          50% { border-color: transparent; }
+        }
+        @keyframes pulse-dot {
+          0%, 100% { opacity: 1; transform: scale(1); }
+          50% { opacity: 0.4; transform: scale(0.85); }
+        }
+      </style>
+      <div class="container">
+        <div class="header-bar">
+          <div class="dots">
+            <div class="dot dot-red"></div>
+            <div class="dot dot-yellow"></div>
+            <div class="dot dot-green"></div>
+          </div>
+          <div class="title">mohammed@kernel-core: ~/profile (zsh)</div>
+          <div style="width: 45px;"></div>
+        </div>
+        <div class="body">
+          <div>
+            <span class="prompt">mohammed@arch-core:~$ </span>
+            <span class="command">./initialize_profile.sh --verbose</span>
+          </div>
+          <div style="margin-top: 10px;">
+            <div class="output-row">
+              <span class="label">[IDENTITY]</span>
+              <span class="val">Mohammed Lahrouri Laasiri</span>
+            </div>
+            <div class="output-row">
+              <span class="label">[ROLE]</span>
+              <span class="val val-highlight">Multiplatform Software Engineer &amp; Systems Architect</span>
+            </div>
+            <div class="output-row">
+              <span class="label">[BACKEND]</span>
+              <span class="val">Java &amp; Spring Boot 3.x (Clean Arch, High-Scale APIs)</span>
+            </div>
+            <div class="output-row">
+              <span class="label">[MOBILE/WEB]</span>
+              <span class="val">Kotlin / Jetpack Compose (Offline-First) • Angular &amp; TypeScript</span>
+            </div>
+            <div class="output-row">
+              <span class="label">[SYSTEMS/NET]</span>
+              <span class="val">CCNA Network Protocols (TCP/IP, Routing, Topologies) • 100% Linux Native</span>
+            </div>
+            <div class="output-row">
+              <span class="label">[PERSISTENCE]</span>
+              <span class="val">Supabase • Firebase • PostgreSQL • SQL Modeling</span>
+            </div>
+            <div class="output-row" style="margin-top: 10px;">
+              <span class="label">[STATUS]</span>
+              <span class="val-badge"><span class="pulse"></span>OPEN FOR OPPORTUNITIES (Full-Time / Relocation)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
