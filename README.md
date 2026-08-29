@@ -186,21 +186,21 @@ A dual mastery of software engineering and network/systems fundamentals enables:
 
 ---
 
-## 📊 Dynamic Activity & Analytics
+## 📊 GitHub Analytics & Repository Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedlahrouri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammed's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlahrouri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedlahrouri&theme=tokyonight" alt="GitHub Profile Summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammedlahrouri&theme=tokyonight" alt="Languages Distribution" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedlahrouri&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=mohammedlahrouri&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedlahrouri&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/mohammedlahrouri" alt="Mohammed's Contribution Heatmap" width="100%" />
 </div>
 
 ---
@@ -208,7 +208,7 @@ A dual mastery of software engineering and network/systems fundamentals enables:
 ## 🐍 Interactive Contribution Stream
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohammedlahrouri/mohammedlahrouri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="./assets/snake-animation.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
