@@ -1,0 +1,243 @@
+<svg fill="none" viewBox="0 0 850 500" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .rack-frame {
+          background: #090d13;
+          border: 2px solid #30363d;
+          border-radius: 12px;
+          padding: 16px 20px;
+          font-family: 'JetBrains Mono', 'Courier New', monospace;
+          color: #c9d1d9;
+          box-sizing: border-box;
+          box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.8), 0 10px 30px rgba(0, 0, 0, 0.6);
+        }
+        .rack-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          border-bottom: 2px solid #21262d;
+          padding-bottom: 10px;
+          margin-bottom: 12px;
+        }
+        .rack-title {
+          font-size: 13px;
+          font-weight: 700;
+          color: #58a6ff;
+          letter-spacing: 1px;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+        .rack-badge {
+          background: rgba(56, 139, 253, 0.15);
+          color: #79c0ff;
+          border: 1px solid rgba(56, 139, 253, 0.4);
+          font-size: 11px;
+          padding: 2px 8px;
+          border-radius: 4px;
+        }
+        .rack-body {
+          display: flex;
+          flex-direction: column;
+          gap: 8px;
+          background: #05070a;
+          padding: 10px;
+          border-radius: 8px;
+          border: 1px solid #1f242c;
+        }
+        .unit-box {
+          background: #10151e;
+          border: 1px solid #28303e;
+          border-radius: 6px;
+          padding: 8px 14px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          position: relative;
+          transition: all 0.3s ease;
+        }
+        .unit-box:hover {
+          border-color: #58a6ff;
+          background: #141c29;
+        }
+        .unit-left {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+        }
+        .u-tag {
+          font-size: 10px;
+          font-weight: 800;
+          color: #8b949e;
+          background: #1f242c;
+          padding: 3px 6px;
+          border-radius: 3px;
+          border: 1px solid #30363d;
+        }
+        .unit-info {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+        .unit-name {
+          font-size: 12px;
+          font-weight: 700;
+          color: #f0f6fc;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .unit-desc {
+          font-size: 10.5px;
+          color: #8b949e;
+        }
+        .unit-right {
+          display: flex;
+          align-items: center;
+          gap: 12px;
+        }
+        .led-group {
+          display: flex;
+          gap: 5px;
+        }
+        .led {
+          width: 7px;
+          height: 7px;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .led-green { background: #3fb950; box-shadow: 0 0 6px #3fb950; animation: blink-fast 1.4s infinite; }
+        .led-blue { background: #58a6ff; box-shadow: 0 0 6px #58a6ff; animation: blink-slow 2.2s infinite; }
+        .led-orange { background: #f0883e; box-shadow: 0 0 6px #f0883e; animation: blink-med 1.8s infinite; }
+        .led-purple { background: #bc8cff; box-shadow: 0 0 6px #bc8cff; animation: blink-fast 1.1s infinite; }
+        .tech-pill {
+          background: rgba(110, 118, 129, 0.1);
+          color: #d2a8ff;
+          border: 1px solid rgba(110, 118, 129, 0.3);
+          font-size: 10px;
+          padding: 2px 7px;
+          border-radius: 4px;
+        }
+        @keyframes blink-fast { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+        @keyframes blink-slow { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+        @keyframes blink-med { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
+      </style>
+      <div class="rack-frame">
+        <div class="rack-header">
+          <div class="rack-title">
+            <span>🎛️ 19" ENTERPRISE INFRASTRUCTURE &amp; STACK RACK</span>
+          </div>
+          <div class="rack-badge">CHASSIS: MOHAMMED-CORE-RACK-42U</div>
+        </div>
+
+        <div class="rack-body">
+          <!-- UNIT 1: SWITCH / ROUTER (CCNA) -->
+          <div class="unit-box">
+            <div class="unit-left">
+              <span class="u-tag">4U / NET</span>
+              <div class="unit-info">
+                <div class="unit-name">
+                  <span>🌐 [ToR-SW01] Top-of-Rack Network Switch &amp; Gateway</span>
+                </div>
+                <div class="unit-desc">CCNA Certified Protocols • TCP/IP Suite • Routing &amp; Switching • Topologies • Security</div>
+              </div>
+            </div>
+            <div class="unit-right">
+              <span class="tech-pill">Cisco / CCNA</span>
+              <div class="led-group">
+                <span class="led led-green"></span>
+                <span class="led led-blue"></span>
+                <span class="led led-green"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- UNIT 2: JVM BACKEND CLUSTER -->
+          <div class="unit-box">
+            <div class="unit-left">
+              <span class="u-tag">2U / APP</span>
+              <div class="unit-info">
+                <div class="unit-name">
+                  <span>☕ [APP-SRV01] Enterprise JVM &amp; Backend Compute Node</span>
+                </div>
+                <div class="unit-desc">Java 21 LTS • Spring Boot 3.x • RESTful APIs • Clean Architecture • Concurrency &amp; Microservices</div>
+              </div>
+            </div>
+            <div class="unit-right">
+              <span class="tech-pill">Spring Boot 3</span>
+              <div class="led-group">
+                <span class="led led-blue"></span>
+                <span class="led led-blue"></span>
+                <span class="led led-green"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- UNIT 3: MOBILE & MULTIPLATFORM GATEWAY -->
+          <div class="unit-box">
+            <div class="unit-left">
+              <span class="u-tag">2U / MOB</span>
+              <div class="unit-info">
+                <div class="unit-name">
+                  <span>📱 [MOB-GW01] Native Android &amp; Client Interfaces Engine</span>
+                </div>
+                <div class="unit-desc">Kotlin • Jetpack Compose • Offline-First Sync • Angular &amp; TypeScript Enterprise Dashboards</div>
+              </div>
+            </div>
+            <div class="unit-right">
+              <span class="tech-pill">Kotlin / Compose</span>
+              <div class="led-group">
+                <span class="led led-purple"></span>
+                <span class="led led-green"></span>
+                <span class="led led-blue"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- UNIT 4: DATABASE & STORAGE ARRAY -->
+          <div class="unit-box">
+            <div class="unit-left">
+              <span class="u-tag">2U / SAN</span>
+              <div class="unit-info">
+                <div class="unit-name">
+                  <span>💾 [SAN-DB01] High-Availability Data Persistence Array</span>
+                </div>
+                <div class="unit-desc">PostgreSQL • Supabase • Firebase • Relational SQL Modeling • Row Level Security (RLS)</div>
+              </div>
+            </div>
+            <div class="unit-right">
+              <span class="tech-pill">Supabase / SQL</span>
+              <div class="led-group">
+                <span class="led led-orange"></span>
+                <span class="led led-green"></span>
+                <span class="led led-orange"></span>
+              </div>
+            </div>
+          </div>
+
+          <!-- UNIT 5: KVM MASTER LINUX CONSOLE -->
+          <div class="unit-box">
+            <div class="unit-left">
+              <span class="u-tag">1U / KVM</span>
+              <div class="unit-info">
+                <div class="unit-name">
+                  <span>🐧 [KVM-OS01] Linux Kernel &amp; POSIX Master Console</span>
+                </div>
+                <div class="unit-desc">100% Linux Native Environment • Bash Automation • Process Lifecycles • Git CI/CD</div>
+              </div>
+            </div>
+            <div class="unit-right">
+              <span class="tech-pill">Linux Native</span>
+              <div class="led-group">
+                <span class="led led-green"></span>
+                <span class="led led-green"></span>
+                <span class="led led-green"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

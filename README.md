@@ -63,6 +63,14 @@ Soy **Ingeniero de Software** especializado en el diseño de aplicaciones multip
 
 ---
 
+## 🎛️ The Datacenter Rack: Full-Stack Architecture
+
+<div align="center">
+  <img src="./assets/datacenter-rack.svg" alt="19 Inch Datacenter Server Rack Stack" width="100%" />
+</div>
+
+---
+
 ## ⚡ Engineering Competency & Depth Matrix
 
 <div align="center">
